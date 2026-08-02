@@ -4,7 +4,7 @@
     let targetElement = null;
     
     for (const div of targetDivs) {
-        if (div.textContent.toLowerCase().includes('the ub man')) {
+        if (div.textContent.toLowerCase().includes('the ub king')) {
             targetElement = div;
             break;
         }
