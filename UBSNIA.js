@@ -16,7 +16,7 @@ for (let i = 0; i < ubsnia.length; i++) {
     const charCount = ubsnia[i].replace(/\s/g, '').length;
     
     // Give roughly 50ms to 100ms per character, or scale it to your preferred speed
-    const readingTime = charCount * 60; 
+    const readingTime = charCount * 70; 
 
     setTimeout(() => {
         socket.emit("talk", { text: ubsnia[i] });
