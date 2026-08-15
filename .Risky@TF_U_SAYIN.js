@@ -7,5 +7,6 @@ if (chatInput) {
     event.target.value = event.target.value.replace(/ivory/gi, 'kingrimo');
     event.target.value = event.target.value.replace(/shit/gi, 'the');
     event.target.value = event.target.value.replace(/nigger/gi, 'my femboy ass');
+    event.target.value = event.target.value.replace(/nigor/gi, 'my soft vore femboy ass');
   });
 }
