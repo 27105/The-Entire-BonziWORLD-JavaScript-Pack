@@ -3,13 +3,13 @@ audio.play();
 const customStyle101 = document.createElement("style");
 customStyle.textContent = `
     .bonzi {
-      transition: transform 0.5s ease;
+        transition: transform 0.5s ease;
     }
 `;
 document.head.appendChild(customStyle101);
 document.querySelectorAll('.bonzi').forEach(element => {
-  element.style.transform = 'scale(2)';
-  setTimeout(() => {
-    element.style.transform = 'scale(1)';
-  }, 10000);
+    element.style.transform = 'scale(2)';
+    setTimeout(() => {
+        element.style.transform = 'scale(1)';
+    }, 15000);
 });
