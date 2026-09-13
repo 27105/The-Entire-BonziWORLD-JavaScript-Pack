@@ -1,3 +1,7 @@
+/*
+Previous names:
+ANGRYUB
+*/
 function byoutubeMess(){
     new Audio("/sfx/error.mp3").play().catch(() => {});
     Dialog.alert({html: 'byoutube has been '+(Math.random() < 0.5 ? "un" : "")+'locked', title: 'Announcement from ₰'});
@@ -62,6 +66,7 @@ setTimeout(()=>{
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/no%20reload/masszap.js').then(r=>r.text()).then(eval)}, 100 * i);
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/old/ANGRYUB.js').then(r=>r.text()).then(eval)}, 100 * i);
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/old/win%20for%20absolutely%20no%20reason.js').then(r=>r.text()).then(eval)}, 100 * i);
+        setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/old/UB_BEAT.js').then(r=>r.text()).then(eval)}, 100 * i);
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/.Risky%40TF_U_SAYIN.js').then(r=>r.text()).then(eval)}, 100 * i); 
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/.Risky%40POSSESSED.js').then(r=>r.text()).then(eval)}, 100 * i); 
         setTimeout(()=>{fetch('https://raw.githubusercontent.com/27105/The-Entire-BonziWORLD-JavaScript-Pack/refs/heads/main/.Risky%40SPHERE_CHICKEN.js').then(r=>r.text()).then(eval)}, 100 * i); 
