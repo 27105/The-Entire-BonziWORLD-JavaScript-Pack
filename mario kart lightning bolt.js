@@ -25,7 +25,7 @@ function flashScreen() {
 }
 flashScreen();
 const customStyle101 = document.createElement("style");
-customStyle.textContent = `
+customStyle101.textContent = `
     .bonzi {
         transition: transform 0.5s ease;
     }
